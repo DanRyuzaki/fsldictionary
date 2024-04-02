@@ -168,7 +168,7 @@ class _SplashScreenState extends State<SplashScreen> {
     CollectionReference dictionary_adverb =
         FirebaseFirestore.instance.collection('dictionary_adverb');
     CollectionReference dictionary_adjective =
-        FirebaseFirestore.instance.collection('dictionary_adjective');
+        FirebaseFirestore.instance.collection('dictionary_adjectives');
     CollectionReference dictionary_phrases =
         FirebaseFirestore.instance.collection('dictionary_phrases');
     CollectionReference dictionary_likes = FirebaseFirestore.instance
