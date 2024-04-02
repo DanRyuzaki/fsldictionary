@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "520491935974",
+    "project_id": "fsl-3d-dictionary",
+    "storage_bucket": "fsl-3d-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520491935974:android:aefd4fc15314c699df3327",
+        "android_client_info": {
+          "package_name": "com.example.fsldictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520491935974-puvac1uhudc296hhap6bghu5kab8kmi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fsldictionary",
+            "certificate_hash": "50caaced928b3c4d817690f455c3cd3aea25dc83"
+          }
+        },
+        {
+          "client_id": "520491935974-m85ggmcvjnd7e1dthojfsgmtslb3csvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirqR4ezOHKO5RdYC0kyJ37K8632iJaio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520491935974-m85ggmcvjnd7e1dthojfsgmtslb3csvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520491935974-bqbr4mcrfrs9tajpuftmos5i6257cgqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fsldictionary"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520491935974:android:f28e862eddd99b5bdf3327",
+        "android_client_info": {
+          "package_name": "com.fsl3d.dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520491935974-4k223nikogjnerb6t3og6terk495o5bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fsl3d.dictionary",
+            "certificate_hash": "50caaced928b3c4d817690f455c3cd3aea25dc83"
+          }
+        },
+        {
+          "client_id": "520491935974-m85ggmcvjnd7e1dthojfsgmtslb3csvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirqR4ezOHKO5RdYC0kyJ37K8632iJaio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520491935974-m85ggmcvjnd7e1dthojfsgmtslb3csvb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520491935974-bqbr4mcrfrs9tajpuftmos5i6257cgqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fsldictionary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
