@@ -44,11 +44,11 @@ _ㅤ_
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/fsl-dictionary-app.git
+   git clone https://github.com/DanRyuzaki/fsldictionary.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fsl-dictionary-app
+   cd fsldictionary
    ```
 3. Install dependencies:
    ```bash
@@ -58,14 +58,3 @@ _ㅤ_
    ```bash
    flutter run
    ```
-
-## **Disclaimer:**
-
-This README.md is a template. You might need to adjust instructions or add specific details based on your app's implementation.
-
-## **Additional Considerations:**
-
-- **Screenshots:** Include screenshots demonstrating the app's functionality to increase user engagement.
-- **License:** Specify the license under which your app is distributed (e.g., MIT, Apache).
-- **Privacy Policy:** If your app collects user data, consider outlining your privacy policy.
-- **Contribution Guidelines:** Provide clear guidelines for contributors (e.g., coding style, testing procedures).
